@@ -2,7 +2,7 @@
 Send targetable and repeatable email communication
 
 # Background
-Working as an IT professional it is necessary to be able to send targetable and repeatable communication in the event of maintenance or security events within any environment.  These types of communications are often predetermined and require review before being sent.  I devlopped this solution as a means of creating communications which could be prepared, tested, reviewed prior to being sent to their target audience.  
+Working as an IT professional it is necessary to be able to send targetable and repeatable communication in the event of maintenance or security events within any environment.  These types of communications are often predetermined and require review before being sent.  I developed this solution as a means of creating communications which could be prepared, tested, reviewed prior to being sent to their target audience.  
 
 # Use Cases:
 * Bulk Password Change Notifications
