@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <ReplacementValues>
+        <Value Name="Username" Replacement="Username"/>
+        <Value Name="FirstName" Replacement="FirstName"/>
+        <Value Name="LastName" Replacement="LastName"/>
+        <Value Name="Email" Replacement="Email"/>
+        <Value Name="UPN" Replacement="UPN"/>
+        <Value Name="Password" Replacement="Password"/>
+        <Value Name="Extension" Replacement="Extension"/>
+        <Value Name="PhoneNumber" Replacement="PhoneNumber"/>
+    </ReplacementValues>
+</Config>
